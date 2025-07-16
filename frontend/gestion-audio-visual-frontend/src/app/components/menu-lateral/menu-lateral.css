@@ -1,0 +1,9 @@
+.sidenav-container {
+  height: 100vh;
+  background-color: #e3f2fd; /* azul claro */
+}
+
+mat-toolbar {
+  background-color: #1976d2; /* azul principal */
+  color: white;
+}
